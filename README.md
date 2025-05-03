@@ -1,1 +1,1 @@
-# eventline-ui
+# event-organizer-backend
